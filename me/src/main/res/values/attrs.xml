@@ -1,6 +1,0 @@
-<resources>
-    <declare-styleable name="MeChooseItem">
-        <attr name="icon" format="reference" />
-        <attr name="itemTxt" format="string" />
-    </declare-styleable>
-</resources>
